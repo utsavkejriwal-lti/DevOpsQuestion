@@ -18,6 +18,10 @@ namespace ConsoleApp1
         {
             return a + b;
         }
+        public static int Difference(int a, int b)
+        {
+            return a - b;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Enter first number");
@@ -39,7 +43,7 @@ namespace ConsoleApp1
             
             Console.WriteLine("Product:" + Multiply(num1,num2));
             Console.WriteLine("Addition:" + Addition(num1,num2));
-
+            Console.WriteLine("Difference:" + Difference(num1, num2));
             Console.ReadKey();
         }
     }

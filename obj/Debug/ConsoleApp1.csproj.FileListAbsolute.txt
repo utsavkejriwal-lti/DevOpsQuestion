@@ -5,3 +5,10 @@ D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.
 D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Vips\Desktop\pushthis\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Vips\Desktop\pushthis\bin\Debug\ConsoleApp1.exe
+C:\Users\Vips\Desktop\pushthis\bin\Debug\ConsoleApp1.pdb
+C:\Users\Vips\Desktop\pushthis\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Vips\Desktop\pushthis\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vips\Desktop\pushthis\obj\Debug\ConsoleApp1.exe
+C:\Users\Vips\Desktop\pushthis\obj\Debug\ConsoleApp1.pdb
