@@ -1,0 +1,7 @@
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\LTI -  855 notes\GitQuestion 09-09\project\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
